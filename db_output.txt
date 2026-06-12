@@ -1,0 +1,44 @@
+Connected to DB
+Total Tasks: 3
+{
+  "_id": "698b0995088890f50d3ee94d",
+  "assignedTo": "698b03d7088890f50d3ee92b",
+  "assignedBy": "698b0578088890f50d3ee931",
+  "title": "Create a website",
+  "description": "See i have sent a mail with all details regarding the project ",
+  "status": "DONE",
+  "priority": "HIGH",
+  "dueDate": "2026-02-12T00:00:00.000Z",
+  "createdAt": "2026-02-10T10:33:57.320Z",
+  "updatedAt": "2026-02-10T14:28:44.983Z",
+  "__v": 0
+}
+---
+{
+  "_id": "698b09cd088890f50d3ee957",
+  "assignedTo": "698b023d088890f50d3ee925",
+  "assignedBy": "698b0578088890f50d3ee931",
+  "title": "Create a Ui",
+  "description": "Required Docs have been shared look into it",
+  "status": "DONE",
+  "priority": "MEDIUM",
+  "dueDate": "2026-02-13T00:00:00.000Z",
+  "createdAt": "2026-02-10T10:34:53.390Z",
+  "updatedAt": "2026-02-10T10:44:00.140Z",
+  "__v": 0
+}
+---
+{
+  "_id": "698b713186013e92822879cd",
+  "assignedTo": "698b02cd088890f50d3ee928",
+  "assignedBy": "698b04bc088890f50d3ee92e",
+  "title": "Monthly analysis Report",
+  "description": "Take Ur Own Sweet time and complete it ",
+  "status": "IN_PROGRESS",
+  "priority": "LOW",
+  "dueDate": "2026-02-21T00:00:00.000Z",
+  "createdAt": "2026-02-10T17:56:01.126Z",
+  "updatedAt": "2026-02-11T12:48:25.354Z",
+  "__v": 0
+}
+---

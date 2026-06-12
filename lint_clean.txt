@@ -1,0 +1,260 @@
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\about\page.tsx
+  5:8  warning  'Image' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\attendance\page.tsx
+    7:5    warning  'Filter' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+    7:13   warning  'MoreHorizontal' is defined but never used                                                                 @typescript-eslint/no-unused-vars
+    7:29   warning  'ArrowUpRight' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+    7:43   warning  'X' is defined but never used                                                                              @typescript-eslint/no-unused-vars
+    7:53   warning  'MapPin' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+    8:5    warning  'Trash2' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   39:12   warning  'loading' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+   54:8    warning  React Hook useEffect has a missing dependency: 'router'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   80:19   warning  'data' is assigned a value but never used                                                                  @typescript-eslint/no-unused-vars
+  262:139  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                            react/no-unescaped-entities
+  262:170  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                            react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\dashboard\page.tsx
+    5:84  warning  'Cell' is defined but never used                                                                                        @typescript-eslint/no-unused-vars
+   14:12  warning  'recentEmployees' is assigned a value but never used                                                                    @typescript-eslint/no-unused-vars
+   16:70  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   19:38  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   34:8   warning  React Hook useEffect has a missing dependency: 'fetchData'. Either include it or remove the dependency array            react-hooks/exhaustive-deps
+   40:8   warning  React Hook useEffect has a missing dependency: 'fetchAttendanceData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   42:55  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   77:62  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   78:82  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   79:72  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   98:52  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+   98:74  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  106:52  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  108:23  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  111:60  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  118:59  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  188:27  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                         react/no-unescaped-entities
+  390:69  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  505:59  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+  505:76  error    Unexpected any. Specify a different type                                                                                @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\employees\page.tsx
+   5:31  warning  'Search' is defined but never used                                                                                                @typescript-eslint/no-unused-vars
+  11:48  error    Unexpected any. Specify a different type                                                                                          @typescript-eslint/no-explicit-any
+  27:8   warning  React Hook useEffect has missing dependencies: 'fetchEmployees' and 'router'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\leaves\page.tsx
+   6:89  warning  'AlertCircle' is defined but never used                                                                    @typescript-eslint/no-unused-vars
+  11:46  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+  44:8   warning  React Hook useEffect has a missing dependency: 'router'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  84:18  warning  'error' is defined but never used                                                                          @typescript-eslint/no-unused-vars
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\notifications\page.tsx
+    4:10  warning  'Bell' is defined but never used                                 @typescript-eslint/no-unused-vars
+  200:62  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\admin\tasks\page.tsx
+    7:35  warning  'Users' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+    7:42  warning  'FileText' is defined but never used                                                                                         @typescript-eslint/no-unused-vars
+    7:52  warning  'Bell' is defined but never used                                                                                             @typescript-eslint/no-unused-vars
+    8:5   warning  'Search' is defined but never used                                                                                           @typescript-eslint/no-unused-vars
+    8:13  warning  'Filter' is defined but never used                                                                                           @typescript-eslint/no-unused-vars
+    8:21  warning  'Plus' is defined but never used                                                                                             @typescript-eslint/no-unused-vars
+    8:27  warning  'MoreVertical' is defined but never used                                                                                     @typescript-eslint/no-unused-vars
+    8:41  warning  'Calendar' is defined but never used                                                                                         @typescript-eslint/no-unused-vars
+    8:51  warning  'Clock' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+    9:5   warning  'AlertCircle' is defined but never used                                                                                      @typescript-eslint/no-unused-vars
+    9:32  warning  'XCircle' is defined but never used                                                                                          @typescript-eslint/no-unused-vars
+   10:45  warning  'Trash2' is defined but never used                                                                                           @typescript-eslint/no-unused-vars
+   38:40  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+   39:48  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+   42:52  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+   79:8   warning  React Hook useEffect has missing dependencies: 'fetchData' and 'router'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+  115:52  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  124:74  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  145:54  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  180:18  warning  'error' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+  232:39  error    Expected a `const` instead of a literal type assertion                                                                       @typescript-eslint/prefer-as-const
+  236:32  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  238:52  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  302:67  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  340:74  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+  385:78  error    Unexpected any. Specify a different type                                                                                     @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\attendance\route.ts
+   24:17  error  'query' is never reassigned. Use 'const' instead             prefer-const
+   24:24  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+   52:48  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+   53:59  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+   72:17  error  'query' is never reassigned. Use 'const' instead             prefer-const
+   72:24  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+   88:21  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+  110:13  error  'latestAttendance' is never reassigned. Use 'const' instead  prefer-const
+  154:21  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+  243:21  error  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\auth\login\route.ts
+  70:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\auth\reset-password\route.ts
+  23:14  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+  23:21  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:14  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+  53:21  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\auth\signup\route.ts
+  78:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\leaves\route.ts
+   29:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  131:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\profile\update\route.ts
+   5:8   warning  'bcrypt' is defined but never used        @typescript-eslint/no-unused-vars
+  31:27  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\profile\work-history\route.ts
+  64:15  warning  'totalWorkingDays' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  67:15  warning  'leaveDaysTaken' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  82:15  warning  'score' is assigned a value but never used             @typescript-eslint/no-unused-vars
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\tasks\[id]\messages\read\route.ts
+  35:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\tasks\[id]\messages\route.ts
+   79:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  110:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\tasks\[id]\route.ts
+   88:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\tasks\route.ts
+   31:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   78:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  149:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\users\[id]\route.ts
+  14:24  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  78:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\users\profile\route.ts
+  21:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  43:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:21  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\api\users\route.ts
+  21:17  error  'query' is never reassigned. Use 'const' instead  prefer-const
+  21:24  error  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  39:21  error  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\apply-leave\page.tsx
+   18:46  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+   41:8   warning  React Hook useEffect has a missing dependency: 'router'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   75:18  warning  'error' is defined but never used                                                                          @typescript-eslint/no-unused-vars
+  245:91  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                            react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\attendance\page.tsx
+    7:5   warning  'BarChart' is defined but never used                                                                       @typescript-eslint/no-unused-vars
+    7:15  warning  'Bar' is defined but never used                                                                            @typescript-eslint/no-unused-vars
+    7:20  warning  'Cell' is defined but never used                                                                           @typescript-eslint/no-unused-vars
+   10:49  warning  'FileText' is defined but never used                                                                       @typescript-eslint/no-unused-vars
+   11:5   warning  'Download' is defined but never used                                                                       @typescript-eslint/no-unused-vars
+   11:15  warning  'Filter' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   11:38  warning  'ArrowLeftRight' is defined but never used                                                                 @typescript-eslint/no-unused-vars
+   11:54  warning  'ChevronRight' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+   12:27  warning  'UserIcon' is defined but never used                                                                       @typescript-eslint/no-unused-vars
+   12:37  warning  'LogOut' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   35:71  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+   53:54  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+   72:12  warning  'loading' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+   87:8   warning  React Hook useEffect has a missing dependency: 'router'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  124:18  warning  'error' is defined but never used                                                                          @typescript-eslint/no-unused-vars
+  161:46  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+  171:34  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+  201:28  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+  220:77  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+  391:45  error    Unexpected any. Specify a different type                                                                   @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\dashboard\page.tsx
+    9:38  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   16:50  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   17:64  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   45:50  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   46:52  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   54:33  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   59:51  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   63:57  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   81:37  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   86:55  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  127:79  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\notifications\page.tsx
+    4:10  warning  'Bell' is defined but never used                                 @typescript-eslint/no-unused-vars
+  200:62  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\tasks\page.tsx
+    3:31   warning  'useRef' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+    5:8    warning  'Link' is defined but never used                                                                                              @typescript-eslint/no-unused-vars
+   74:40   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+   76:50   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+   82:25   warning  'setIsUploading' is assigned a value but never used                                                                           @typescript-eslint/no-unused-vars
+  104:8    warning  React Hook useEffect has missing dependencies: 'fetchTasks' and 'router'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+  116:66   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  119:68   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  134:52   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  142:62   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  149:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  178:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  183:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  234:61   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  237:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  259:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  322:115  error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  324:42   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  324:97   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  350:68   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  402:55   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  451:82   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  513:71   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  665:71   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  690:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\explore\page.tsx
+  96:128  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\forgot-password\page.tsx
+   9:11  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  34:23  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  70:23  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\login\page.tsx
+  44:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\page.tsx
+  15:3  warning  'Workflow' is defined but never used   @typescript-eslint/no-unused-vars
+  17:3  warning  'BarChart3' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\privacy\page.tsx
+  4:29  warning  'FileText' is defined but never used  @typescript-eslint/no-unused-vars
+  4:39  warning  'Scale' is defined but never used     @typescript-eslint/no-unused-vars
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\signup\page.tsx
+   26:12   warning  'error' is assigned a value but never used                       @typescript-eslint/no-unused-vars
+   59:23   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   91:26   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  254:108  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  254:119  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  255:111  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  256:118  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  256:132  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\terms\page.tsx
+   4:10   warning  'FileText' is defined but never used                             @typescript-eslint/no-unused-vars
+  40:147  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+✖ 190 problems (123 errors, 67 warnings)
+  5 errors and 0 warnings potentially fixable with the `--fix` option.
+

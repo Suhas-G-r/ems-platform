@@ -1,0 +1,4 @@
+Replace lines 310-319 with:
+
+                                <Bar dataKey="present" stackId="a" fill="#22c55e" radius={[0, 0, 0, 0]} />
+                                <Bar dataKey="absent" stackId="a" fill="#ef4444" radius={[8, 8, 0, 0]} />

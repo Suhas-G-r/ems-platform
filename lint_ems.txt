@@ -1,0 +1,31 @@
+﻿
+C:\Users\SUHAS G R\Documents\Desktop\EMP - Management-SYS\ems-web\src\app\employee\tasks\page.tsx
+    3:31   warning  'useRef' is defined but never used                                                                                            @typescript-eslint/no-unused-vars
+    5:8    warning  'Link' is defined but never used                                                                                              @typescript-eslint/no-unused-vars
+   74:40   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+   76:50   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+   82:25   warning  'setIsUploading' is assigned a value but never used                                                                           @typescript-eslint/no-unused-vars
+  104:8    warning  React Hook useEffect has missing dependencies: 'fetchTasks' and 'router'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+  116:66   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  119:68   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  134:52   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  142:62   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  149:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  178:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  183:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  234:61   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  237:60   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  259:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  322:115  error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  324:42   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  324:97   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  350:68   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  397:105  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                               react/no-unescaped-entities
+  402:55   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  451:82   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  513:71   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  665:71   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+  690:58   error    Unexpected any. Specify a different type                                                                                      @typescript-eslint/no-explicit-any
+
+Γ£û 26 problems (22 errors, 4 warnings)
+
