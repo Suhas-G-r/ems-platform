@@ -168,7 +168,7 @@ export default function AdminDashboard() {
 
             // Respect employee join date: do not count days before they joined.
             // If they joined this month, start counting from the day AFTER join date (per UX: "from next day").
-            const joinDate = emp['createdAt'] ? new Date(emp['createdAt']) : null
+            const joinDate = (emp as any)['createdAt'] ? new Date((emp as any)['createdAt']) : null
             let startDay = 1
             if (joinDate && joinDate.getFullYear() === year && joinDate.getMonth() === month) {
                 startDay = joinDate.getDate() + 1 // start counting from the next day after joining
